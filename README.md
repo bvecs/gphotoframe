@@ -44,15 +44,15 @@ It shows pictures from:
 ### Installation
 
 The gschema file must be installed.
-'''
+```
   sudo cp ./share/com.googlecode.gphotoframe.gschema.xml.in /usr/share/glib-2.0/schemas/com.googlecode.gphotoframe.gschema.xml
   sudo sudo glib-compile-schemas /usr/share/glib-2.0/schemas
-'''
+```
 You can install with the setup script.
-'''
+```
   sudo python ./setup.py install --force
-'''
+```
 Or, you can launch without installation. (Some functions are restricted.)
-'''
+```
   ./gphotoframe
-'''
+```
