@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: gphotoframe
+Version: 2.0-a3
+Summary: GPhotoFrame
+Home-page: http://code.google.com/p/gphotoframe/
+Author: Yoshizumi Endo
+Author-email: y-endo@ceres.dti.ne.jp
+License: GPL3
+Description: A Photo Frame Gadget for the GNOME Desktop.
+Platform: UNKNOWN
